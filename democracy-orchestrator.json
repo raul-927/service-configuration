@@ -1,0 +1,8 @@
+{
+    "keycloak.id-client":"democracy_client",
+    "keycloak.secret-client":"YYcdVQO1lB9F5IjxjN6ljHueBWhZz1aZ",
+    "keycloak.type-gran":"password",
+    "keycloak.name-user":"raraherher9274",
+    "keycloak.user-password":"raraherher9274",
+    "keycloak.token.url-token":"http://localhost:8181/realms/democracy_realm/protocol/openid-connect/token"
+}
